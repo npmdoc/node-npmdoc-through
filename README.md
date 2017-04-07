@@ -1,11 +1,13 @@
-# api documentation for  [through (v2.3.8)](https://github.com/dominictarr/through)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-through.svg)](https://travis-ci.org/npmdoc/node-npmdoc-through)
+# api documentation for  [through (v2.3.8)](https://github.com/dominictarr/through)  [![npm package](https://img.shields.io/npm/v/npmdoc-through.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-through) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-through.svg)](https://travis-ci.org/npmdoc/node-npmdoc-through)
 #### simplified stream construction
 
 [![NPM](https://nodei.co/npm/through.png?downloads=true)](https://www.npmjs.com/package/through)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-through/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-through_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-through/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-through/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-through_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-through/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-through/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-through/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-through/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
