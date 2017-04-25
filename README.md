@@ -1,6 +1,6 @@
 # npmdoc-through
 
-#### api documentation for  [through (v2.3.8)](https://github.com/dominictarr/through)  [![npm package](https://img.shields.io/npm/v/npmdoc-through.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-through) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-through.svg)](https://travis-ci.org/npmdoc/node-npmdoc-through)
+#### basic api documentation for  [through (v2.3.8)](https://github.com/dominictarr/through)  [![npm package](https://img.shields.io/npm/v/npmdoc-through.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-through) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-through.svg)](https://travis-ci.org/npmdoc/node-npmdoc-through)
 
 #### simplified stream construction
 
@@ -73,7 +73,8 @@
         ],
         "files": "test/*.js"
     },
-    "version": "2.3.8"
+    "version": "2.3.8",
+    "bin": {}
 }
 ```
 
